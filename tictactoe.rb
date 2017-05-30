@@ -104,3 +104,4 @@ class Player
 end
 end
 game = TicTacToe.new
+test
